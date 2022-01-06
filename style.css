@@ -135,7 +135,10 @@ p{
 } */
 .picture img{
     height: 420px;
-    width: 55%;
+    width: 75%;
+    margin: 10%;
+    padding-left: 25%;
+
 }
 footer{
     width: 80%;
@@ -148,13 +151,15 @@ footer{
     color: white;
 text-align: center;
 }
-
+.picturediv{
+    padding-left: 15%;
+}
 
 .picture{
     margin-top: 7%;
     display: flex;
     width: 80%;
-    background-image: url(image/images/shapes/shape-1.png);
+    /* background-image: url(image/images/shapes/shape-1.png); */
     background-repeat: no-repeat;
     background-position: -left;
     background-size: 7.5cm;
